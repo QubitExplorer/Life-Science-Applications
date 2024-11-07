@@ -7,14 +7,14 @@ Every human diseases will show certain traits. And, here we will be picking few 
 
 **Few Basics:**
 
-**DNA:** DNA is a set of instructions like a computer program for our human body, Its made up of four nitrogenous bases — adenine (A), thymine (T), cytosine (C), and guanine (G). These bases pair in a specific way: A pairs with T, and C pairs with G.
+**1. DNA:** DNA is a set of instructions like a computer program for our human body, Its made up of four nitrogenous bases — adenine (A), thymine (T), cytosine (C), and guanine (G). These bases pair in a specific way: A pairs with T, and C pairs with G.
 
 Gene Count: We as a humans have approximately 19,000-20,000 genes (attached the list), though exact count may vary slightly depending on the source. Genes can indeed be looked up in databases like the one on Wikipedia, which provides an overview of various gene categories and functions.
 
 How to check whether the given sequence is correct DNA or not ?. Valid DNA must contains these four bases: A, T, C and G. Normal python functions will be utilized here.
 
 
-**RNA and Transcription:**
+**2. RNA and Transcription:**
 Converting DNA to RNA: The process of converting DNA into RNA is called **transcription**. During transcription, an enzyme called RNA polymerase reads the DNA sequence and and then creates a complementary RNA strand.
 
 Key Difference (T to U): In RNA, thymine (T) is replaced by uracil (U), so whenever there’s an "A" on the DNA template, it pairs with "U" in the RNA. This switch from "T" to "U" is a unique feature of RNA.
@@ -27,7 +27,17 @@ Converted RNA:AUCGUUAG
 
 We just replaced T with U
 
-**Proteins:**:
+**3. Proteins:**:
+convert_into_protein("UUAAUGUUCUUU")
+
+Lets split it into three letters each. 
+
+#UUA - Not a proper starting for protein.
+#AUG - It starts with AUG, in short "M"
+#UUC - Denotes "F"
+#UUU - Denotes "F"
+
+#Final Converted Results as "MFF"
 
 Other Topics:
 
