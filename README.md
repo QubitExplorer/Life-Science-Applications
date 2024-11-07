@@ -54,3 +54,4 @@ Other Topics:
 2. https://pypi.org/project/blosum/
 3. https://wikidoc.org/index.php/BLOSUM
 4. https://deepmind.google/technologies/alphafold/
+5. https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch
