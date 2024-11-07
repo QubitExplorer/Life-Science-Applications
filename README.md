@@ -1,10 +1,6 @@
 # Life-Science-Applications
 
-Work in progress:
-
 Here, we will be exploring few healthcare life science applications, and to understand about basics of human gene, DNA, RNA and proteins, classifications, major diseases traits and role of AI in healthcare applications.
-
-**Please note:** Healthcare requires a high level of expertise, and the information provided here is intended solely for educational purposes only. And, information will be updated over several iterations and its not for commercial use cases.
 
 Every human diseases will show certain traits. And, here we will be picking few major diseases which is causing severe impact in human kind and the possibility of leveraging AI in those areas. 
 
@@ -19,8 +15,17 @@ How to check whether the given sequence is correct DNA or not ?. Valid DNA must 
 
 
 **RNA and Transcription:**
-Converting DNA to RNA: The process of converting DNA into RNA is called transcription. During transcription, an enzyme called RNA polymerase reads the DNA sequence and and then creates a complementary RNA strand.
+Converting DNA to RNA: The process of converting DNA into RNA is called **transcription**. During transcription, an enzyme called RNA polymerase reads the DNA sequence and and then creates a complementary RNA strand.
+
 Key Difference (T to U): In RNA, thymine (T) is replaced by uracil (U), so whenever there’s an "A" on the DNA template, it pairs with "U" in the RNA. This switch from "T" to "U" is a unique feature of RNA.
+
+Example:
+
+Our Given DNA:ATCGTTAG
+
+Converted RNA:AUCGUUAG
+
+We just replaced T with U
 
 **Proteins:**:
 
