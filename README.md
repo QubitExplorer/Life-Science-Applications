@@ -21,7 +21,7 @@ Key Difference (T to U): In RNA, thymine (T) is replaced by uracil (U), so whene
 
 Example:
 
-Our Given DNA:ATCGTTAG
+Our Given DNA Sample Sequence:ATCGTTAG
 
 Converted RNA:AUCGUUAG
 
@@ -43,7 +43,7 @@ Other Topics:
 
 1. DNA, gene list and its example
 2. RNA (concepts and conversion of DNA to RNA with example python scripts)
-3. Protien Structure and the list of available open source platforms for further study
+3. Protein Structure and the list of available open source platforms for further study
 4. Similarity Identifications (with python examples)
 5. Famous Similarity scores: PAM, BLOSUM Matrices etc. and its open source tools for calculations.
 6. Few Classifications/Applications
