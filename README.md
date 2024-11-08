@@ -1,6 +1,6 @@
 # Life-Science-Applications
 
-Here, we will be exploring few healthcare life science applications, and to understand about basics of human gene, DNA, RNA and proteins, classifications, major molecule traits and role of AI in healthcare applications.
+Here, we will be exploring few healthcare life science applications, and to understand about basics of DNA, RNA and proteins, classifications, major molecule traits and role of AI in healthcare applications.
 
 
 **Few Basics:**
