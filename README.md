@@ -1,8 +1,6 @@
 # Life-Science-Applications
 
-Here, we will be exploring few healthcare life science applications, and to understand about basics of human gene, DNA, RNA and proteins, classifications, major diseases traits and role of AI in healthcare applications.
-
-Every human diseases will show certain traits. And, here we will be picking few major diseases which is causing severe impact in human kind and the possibility of leveraging AI in those areas. 
+Here, we will be exploring few healthcare life science applications, and to understand about basics of human gene, DNA, RNA and proteins, classifications, major molecule traits and role of AI in healthcare applications.
 
 
 **Few Basics:**
@@ -47,6 +45,11 @@ Other Topics:
 4. Similarity Identifications (with python examples)
 5. Famous Similarity scores: PAM, BLOSUM Matrices etc. and its open source tools for calculations.
 6. Few Classifications/Applications
+7. Also, we will train a machine-learning model to predict the activities of new molecules using Auto Variational Encoder and Generative AI applications
+
+
+Sample Output from Generative AI models (Evaluation with AUC curve):
+![image](https://github.com/user-attachments/assets/e5e638ca-30db-415e-9dbb-41a155ed70bb)
 
 
 **Reference:**
