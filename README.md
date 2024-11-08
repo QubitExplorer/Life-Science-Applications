@@ -58,3 +58,5 @@ Sample Output from Generative AI models (Evaluation with AUC curve):
 3. https://wikidoc.org/index.php/BLOSUM
 4. https://deepmind.google/technologies/alphafold/
 5. https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch
+
+Note: Only for educational purpose. 
