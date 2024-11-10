@@ -58,7 +58,7 @@ Sample Output from Generative AI models (Evaluation with AUC curve, to be verifi
 3. https://wikidoc.org/index.php/BLOSUM
 4. https://deepmind.google/technologies/alphafold/
 5. https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch
-6. https://openai.com/ ((For content reviews & fact checks)
+6. https://openai.com/ (For content reviews & fact checks)
    
 Note: Healthcare is highly regulated field which would require precision and prior experience. These basic concepts/contents has been generated only for educational and reference purpose. 
 
