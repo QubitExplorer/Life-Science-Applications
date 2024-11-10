@@ -48,7 +48,7 @@ Other Topics:
 7. Also, we will train a machine-learning model to predict the activities of new molecules using Auto Variational Encoder and Generative AI applications
 
 
-Sample Output from Generative AI models (Evaluation with AUC curve):
+Sample Output from Generative AI models (Evaluation with AUC curve, to be verified):
 ![image](https://github.com/user-attachments/assets/e5e638ca-30db-415e-9dbb-41a155ed70bb)
 
 
@@ -58,5 +58,7 @@ Sample Output from Generative AI models (Evaluation with AUC curve):
 3. https://wikidoc.org/index.php/BLOSUM
 4. https://deepmind.google/technologies/alphafold/
 5. https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch
+6. https://openai.com/
+   
+Note: Healthcare is a highly regulated field which would require precision and prior experience. These basic concepts/contents has been generated only for educational and reference purpose. 
 
-Note: Only for educational purpose. 
