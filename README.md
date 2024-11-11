@@ -25,6 +25,8 @@ Converted RNA:AUCGUUAG
 
 We just replaced T with U
 
+This is a basic example, normally the sequence will contain billions of pairs. 
+
 **3. Proteins:**:
 convert_into_protein("UUAAUGUUCUUU")
 
@@ -60,5 +62,5 @@ Sample Output from Generative AI models (Evaluation with AUC curve, to be verifi
 5. https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch
 6. https://openai.com/ (For content reviews & fact checks)
    
-Note: Healthcare is highly regulated field which would require precision and prior experience. These basic concepts/contents has been generated only for educational and reference purpose. 
+Note: Healthcare is highly regulated field which would require precision and prior experience. These basic concepts/contents has been generated only for educational purpose for life science applications, further fact checks might be required too. 
 
