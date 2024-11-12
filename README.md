@@ -53,6 +53,10 @@ Other Topics:
 Sample Output from Generative AI models (Evaluation with AUC curve, to be verified):
 ![image](https://github.com/user-attachments/assets/e5e638ca-30db-415e-9dbb-41a155ed70bb)
 
+Here, are the other project ideas which could be a good learning focus: (Open source competitions like Kaggle can be good start)
+
+![image](https://github.com/user-attachments/assets/72975c4d-8bb4-485a-877e-9a0c0aedfe31)
+
 
 **Reference:**
 1. https://en.wikipedia.org/wiki/Human_genome
