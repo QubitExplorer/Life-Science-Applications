@@ -53,9 +53,7 @@ Other Topics:
 Sample Output from Generative AI models (Evaluation with AUC curve, to be verified):
 ![image](https://github.com/user-attachments/assets/e5e638ca-30db-415e-9dbb-41a155ed70bb)
 
-Below are few project ideas which could be a good learning focus: (Source: OpenAI)
-
-Open source competitions like Kaggle can be good start.
+Below are few project ideas which could be a good start: (Source: GPT4 Generated)
 
 ![image](https://github.com/user-attachments/assets/72975c4d-8bb4-485a-877e-9a0c0aedfe31)
 
