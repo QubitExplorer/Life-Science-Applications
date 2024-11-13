@@ -7,7 +7,7 @@ Here, we will be exploring few healthcare life science applications, and to unde
 
 **1. DNA:** DNA is a set of instructions like a computer program for our human body, Its made up of four nitrogenous bases — adenine (A), thymine (T), cytosine (C), and guanine (G). These bases pair in a specific way: A pairs with T, and C pairs with G.
 
-Gene Count: We as a humans have approximately 19,000-20,000 genes (attached the list), though exact count may vary slightly depending on the source. Genes can be looked up in databases like the one on Wikipedia, which provides an overview of various gene categories and functions.
+Gene Count: Humans have approximately 19,000-20,000 genes (attached the list), though exact count may vary slightly depending on the source. Genes can be looked up in databases like the one on Wikipedia, which provides an overview of various gene categories and functions.
 
 How to check whether the given sequence is correct DNA or not ?. Valid DNA must contains these four bases: A, T, C and G. Normal python programming functions will be utilized here.
 
