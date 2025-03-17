@@ -47,11 +47,11 @@ Other Areas:
 6. Few Classifications/Applications
 7. Also, we will train a machine-learning model to predict the activities of new molecules using Auto Variational Encoder and Generative AI applications
 
-
+Model 1: 
 Sample Output from Generative AI models (Evaluation with AUC curve):
 ![image](https://github.com/user-attachments/assets/e5e638ca-30db-415e-9dbb-41a155ed70bb)
 
-Below are few project ideas which could be a good start: (Source: GPT4 Generated)
+Below are few project ideas which could be a good start: 
 
 ![image](https://github.com/user-attachments/assets/72975c4d-8bb4-485a-877e-9a0c0aedfe31)
 
