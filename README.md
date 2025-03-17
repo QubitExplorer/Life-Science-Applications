@@ -64,5 +64,5 @@ Below are few project ideas which could be a good start:
 5. https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch
 6. https://openai.com/ (For content reviews & fact checks)
    
-These basic concepts/contents has been generated only for educational purpose for life science applications. 
+These basic concepts/contents for educational purpose for life science applications. 
 
