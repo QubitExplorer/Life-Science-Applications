@@ -23,9 +23,7 @@ Our Given DNA Sample Sequence:ATCGTTAG
 
 Converted RNA:AUCGUUAG
 
-We just replaced T with U
-
-This is a basic example, normally the sequence will contain billions of pairs. 
+We just replaced T with U, normally sequence will contain billions of pairs. 
 
 **3. Proteins:**:
 convert_into_protein("UUAAUGUUCUUU")
@@ -39,7 +37,7 @@ Lets split it into three letters each.
 
 #Final Converted Results as "MFF"
 
-Other Topics:
+Other Areas:
 
 1. DNA, gene list and its example
 2. RNA (concepts and conversion of DNA to RNA with example python scripts)
@@ -50,7 +48,7 @@ Other Topics:
 7. Also, we will train a machine-learning model to predict the activities of new molecules using Auto Variational Encoder and Generative AI applications
 
 
-Sample Output from Generative AI models (Evaluation with AUC curve, to be verified):
+Sample Output from Generative AI models (Evaluation with AUC curve):
 ![image](https://github.com/user-attachments/assets/e5e638ca-30db-415e-9dbb-41a155ed70bb)
 
 Below are few project ideas which could be a good start: (Source: GPT4 Generated)
