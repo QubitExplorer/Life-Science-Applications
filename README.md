@@ -45,7 +45,12 @@ Other Areas:
 4. Similarity Identifications (with python examples)
 5. Famous Similarity scores: PAM, BLOSUM Matrices etc. and its open source tools for calculations.
 6. Few Classifications/Applications
-7. Also, we will train a machine-learning model to predict the activities of new molecules using Auto Variational Encoder and Generative AI applications
+7. Also, we will train a machine-learning model to predict the activities of new molecules using Auto Variational Encoder and Generative AI applications.
+
+Sequence Alignment Techniques:
+
+![image](https://github.com/user-attachments/assets/26963221-bade-4b66-bd52-c689fb177d8e)
+
 
 Model 1: 
 Sample Output from Generative AI models (Evaluation with AUC curve):
