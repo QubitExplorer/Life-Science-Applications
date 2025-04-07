@@ -49,7 +49,7 @@ Other Areas:
 
 Sequence Alignment Techniques:
 
-![image](https://github.com/user-attachments/assets/26963221-bade-4b66-bd52-c689fb177d8e)
+![image](https://github.com/user-attachments/assets/57550082-afea-47b0-a1c4-9763de72208d)
 
 
 Model 1: 
