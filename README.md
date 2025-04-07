@@ -47,13 +47,13 @@ Other Areas:
 6. Few Classifications/Applications
 7. Also, we will train a machine-learning model to predict the activities of new molecules using Auto Variational Encoder and Generative AI applications.
 
-Sequence Alignment Techniques:
+Basic Sequence Alignment Techniques:
 
 ![image](https://github.com/user-attachments/assets/57550082-afea-47b0-a1c4-9763de72208d)
 
 
-Model 1: 
-Sample Output from Generative AI models (Evaluation with AUC curve):
+AI Generative Model 1: 
+Sample Output from Gen AI models, smiley generation (Evaluation with AUC curve):
 ![image](https://github.com/user-attachments/assets/e5e638ca-30db-415e-9dbb-41a155ed70bb)
 
 Below are few project ideas which could be a good start: 
